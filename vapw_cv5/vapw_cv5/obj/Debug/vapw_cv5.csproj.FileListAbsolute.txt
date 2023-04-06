@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\bin\Debug\vapw_cv5.exe.config
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\bin\Debug\vapw_cv5.exe
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\bin\Debug\vapw_cv5.pdb
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\obj\Debug\vapw_cv5.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\obj\Debug\vapw_cv5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\obj\Debug\vapw_cv5.Form1.resources
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\obj\Debug\vapw_cv5.Properties.Resources.resources
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\obj\Debug\vapw_cv5.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\obj\Debug\vapw_cv5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\obj\Debug\vapw_cv5.exe
+C:\Users\Dell\source\repos\vapw_cv5\vapw_cv5\obj\Debug\vapw_cv5.pdb
